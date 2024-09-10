@@ -34,7 +34,7 @@ The project includes a detailed circuit diagram outlining the connections betwee
 - Webpage Interface: A simple and user-friendly interface allows users to view battery status in real time, helping track the performance of the solar system.
 - Future Scalability: The design is expandable for larger installations in real-world solar energy systems.
 
-************ Project Video *************************
+Project Video: 
 A full demonstration of the project is available on YouTube, showcasing the system's sun-tracking capabilities, real-time battery monitoring, and network accessibility. 
 [Link of video's project: https://youtu.be/PefNpsHqoHA?si=hutHc0BRugH5mU4n]
 
