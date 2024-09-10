@@ -38,7 +38,7 @@ The project includes a detailed circuit diagram outlining the connections betwee
 A full demonstration of the project is available on YouTube, showcasing the system's sun-tracking capabilities, real-time battery monitoring, and network accessibility. 
 [Link of video's project: https://youtu.be/PefNpsHqoHA?si=hutHc0BRugH5mU4n]
 
-For more information feel free to contact us on our social media or on our webpage.
-instagram : https://instagram.com/makin_afleo?igshid=MmIzYWVlNDQ5Yg==
-youtube : https://www.youtube.com/channel/UC4JMOTgAy32O7BfJBDLREKQ
-webpage : https://makinafleo.com/
+**** For more information feel free to contact us on our social media or on our webpage. ***
+- instagram : https://instagram.com/makin_afleo?igshid=MmIzYWVlNDQ5Yg==
+- youtube : https://www.youtube.com/channel/UC4JMOTgAy32O7BfJBDLREKQ
+- webpage : https://makinafleo.com/
