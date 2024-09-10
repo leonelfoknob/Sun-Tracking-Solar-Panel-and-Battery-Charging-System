@@ -1,5 +1,9 @@
 This project is designed to maximize solar energy efficiency by implementing an automated sun-tracking system that follows the sun's position throughout the day. The system controls a solar panel's movement using a servo motor, ensuring optimal orientation for energy collection. Additionally, the system monitors and displays the battery level in real-time on a webpage accessible through a local network, providing insights into energy storage.
 
+Project Video: 
+A full demonstration of the project is available on YouTube, showcasing the system's sun-tracking capabilities, real-time battery monitoring, and network accessibility. 
+[Link of video's project: https://youtu.be/PefNpsHqoHA?si=hutHc0BRugH5mU4n]
+
 Components Used:
 - LDR Sensors (2x):
 Function: Light-dependent resistors (LDRs) are used to detect sunlight. Their resistance changes with the intensity of light, which allows the system to determine the optimal direction for the solar panel.
@@ -34,10 +38,6 @@ Type: Two 3.7V lithium-ion batteries connected in series to provide 7.4V.
 - Local Network Access: The ESP32 facilitates real-time access to the battery level from any device connected to the local network, providing convenience and ease of monitoring.
 - Webpage Interface: A simple and user-friendly interface allows users to view battery status in real time, helping track the performance of the solar system.
 - Future Scalability: The design is expandable for larger installations in real-world solar energy systems.
-
-Project Video: 
-A full demonstration of the project is available on YouTube, showcasing the system's sun-tracking capabilities, real-time battery monitoring, and network accessibility. 
-[Link of video's project: https://youtu.be/PefNpsHqoHA?si=hutHc0BRugH5mU4n]
 
 **** For more information feel free to contact us on our social media or on our webpage. ***
 - instagram : https://instagram.com/makin_afleo?igshid=MmIzYWVlNDQ5Yg==
