@@ -1,4 +1,5 @@
 This project is designed to maximize solar energy efficiency by implementing an automated sun-tracking system that follows the sun's position throughout the day. The system controls a solar panel's movement using a servo motor, ensuring optimal orientation for energy collection. Additionally, the system monitors and displays the battery level in real-time on a webpage accessible through a local network, providing insights into energy storage.
+![sun_tracking](https://github.com/user-attachments/assets/e52e56d0-eb60-4cc3-b1bd-8f5cd23ddb77)
 
 Project Video: 
 A full demonstration of the project is available on YouTube, showcasing the system's sun-tracking capabilities, real-time battery monitoring, and network accessibility. 
