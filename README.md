@@ -28,7 +28,7 @@ Type: Two 3.7V lithium-ion batteries connected in series to provide 7.4V.
 - Expandable Design: The project is designed to be scalable, making it adaptable to larger real-life solar tracking and energy storage systems.
 
 ************** Circuit Diagram *********************
-The project includes a detailed circuit diagram outlining the connections between the solar panel, LDR sensors, STM32F103 microcontroller, ESP32, servo motor, and the voltage divider. [it will be in directory with name circuit_diagram]
+- The project includes a detailed circuit diagram outlining the connections between the solar panel, LDR sensors, STM32F103 microcontroller, ESP32, servo motor, and the voltage divider. [it will be in directory with name circuit_diagram]
 
 ************** Additional Features *****************
 - Local Network Access: The ESP32 facilitates real-time access to the battery level from any device connected to the local network, providing convenience and ease of monitoring.
