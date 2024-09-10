@@ -25,7 +25,7 @@ Type: Two 3.7V lithium-ion batteries connected in series to provide 7.4V.
 ************* System Functionality: ****************
 - Sun Tracking: The LDR sensors send signals to the STM32F103, which adjusts the solar panel’s position to follow the sun throughout the day. The servo motor ensures precise movement on the x-axis.
 - Real-Time Battery Monitoring: The ESP32 constantly checks the battery level using the voltage divider and displays this information on a custom-built webpage, accessible through Wi-Fi. This allows users to track energy storage status conveniently on their devices.
-- Expandable Design: The project is designed to be scalable, making it adaptable to larger real-life solar tracking and energy storage systems
+- Expandable Design: The project is designed to be scalable, making it adaptable to larger real-life solar tracking and energy storage systems.
 ************** Circuit Diagram *********************
 The project includes a detailed circuit diagram outlining the connections between the solar panel, LDR sensors, STM32F103 microcontroller, ESP32, servo motor, and the voltage divider. [it will be in directory with name circuit_diagram]
 
