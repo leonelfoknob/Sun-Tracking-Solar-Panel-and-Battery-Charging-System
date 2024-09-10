@@ -23,16 +23,17 @@ Type: Two 3.7V lithium-ion batteries connected in series to provide 7.4V.
 2S BMS (Battery Management System): Protects the battery by managing charging and discharging cycles, preventing overcharging and ensuring system safety.
 
 ************* System Functionality: ****************
-* Sun Tracking: The LDR sensors send signals to the STM32F103, which adjusts the solar panel’s position to follow the sun throughout the day. The servo motor ensures precise movement on the x-axis.
-* Real-Time Battery Monitoring: The ESP32 constantly checks the battery level using the voltage divider and displays this information on a custom-built webpage, accessible through Wi-Fi. This allows users to track energy storage status conveniently on their devices.
-* Expandable Design: The project is designed to be scalable, making it adaptable to larger real-life solar tracking and energy storage systems
+- Sun Tracking: The LDR sensors send signals to the STM32F103, which adjusts the solar panel’s position to follow the sun throughout the day. The servo motor ensures precise movement on the x-axis.
+- Real-Time Battery Monitoring: The ESP32 constantly checks the battery level using the voltage divider and displays this information on a custom-built webpage, accessible through Wi-Fi. This allows users to track energy storage status conveniently on their devices.
+- Expandable Design: The project is designed to be scalable, making it adaptable to larger real-life solar tracking and energy storage systems
 ************** Circuit Diagram *********************
 The project includes a detailed circuit diagram outlining the connections between the solar panel, LDR sensors, STM32F103 microcontroller, ESP32, servo motor, and the voltage divider. [it will be in directory with name circuit_diagram]
 
 ************** Additional Features *****************
-* Local Network Access: The ESP32 facilitates real-time access to the battery level from any device connected to the local network, providing convenience and ease of monitoring.
-* Webpage Interface: A simple and user-friendly interface allows users to view battery status in real time, helping track the performance of the solar system.
-* Future Scalability: The design is expandable for larger installations in real-world solar energy systems.
+- Local Network Access: The ESP32 facilitates real-time access to the battery level from any device connected to the local network, providing convenience and ease of monitoring.
+- Webpage Interface: A simple and user-friendly interface allows users to view battery status in real time, helping track the performance of the solar system.
+- Future Scalability: The design is expandable for larger installations in real-world solar energy systems.
+
 ************ Project Video *************************
 A full demonstration of the project is available on YouTube, showcasing the system's sun-tracking capabilities, real-time battery monitoring, and network accessibility. 
 [Link of video's project: https://youtu.be/PefNpsHqoHA?si=hutHc0BRugH5mU4n]
